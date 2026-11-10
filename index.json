@@ -1,0 +1,11 @@
+{
+  "org": "json4s",
+  "repo": "json4s",
+  "versions": [
+    {
+      "commit": "f31d2fbc1e63ae2ed04f6150aec5b85e7de6c64a",
+      "tag": "",
+      "parsed_at": "2026-11-10T04:04:22.204654+00:00"
+    }
+  ]
+}
