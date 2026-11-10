@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/json4s/json4s/commit/f31d2fbc1e63ae2ed04f6150aec5b85e7de6c64a",
       "git:hexsha": "f31d2fbc1e63ae2ed04f6150aec5b85e7de6c64a",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/json4s/json4s/commit/a249ff47fa2d14b34153f54f8d00788303ba5adb",
